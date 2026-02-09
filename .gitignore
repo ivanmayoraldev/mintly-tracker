@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Database (evita subir tus datos reales de prueba)
+*.db
+
+# OS files
+Thumbs.db
+.DS_Store
