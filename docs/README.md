@@ -1,4 +1,4 @@
-# 💰 Mintly Finance Tracker
+# 💰 Mintly Tracker
 
 **Aplicación de gestión de finanzas personales desarrollada con Python y PySide6**
 
